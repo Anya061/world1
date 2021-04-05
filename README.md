@@ -1,2 +1,2 @@
 My first remote repository.
-added new information
+//added new information
